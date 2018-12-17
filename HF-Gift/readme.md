@@ -1,0 +1,1 @@
+Scale down to 75%
